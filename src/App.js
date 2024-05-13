@@ -36,11 +36,10 @@ function App() {
       </div>
 
       <div className='centrado fuente descripcion'>
-        <h2>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sagittis ligula a est tristique, a iaculis purus
-        sodales. Proin in congue massa. Maecenas metus lacus, posuere sit amet luctus a, porttitor vitae ipsum. In in
-        sagittis lacus, eget dignissim erat. Fusce vitae fermentum sapien. Suspendisse dictum tellus eu fringilla rhoncus.
-        Nullam eleifend odio rutrum purus finibus, ac ultricies purus commodo. Sed efficitur massa vel libero lacinia
-        ultrices.</h2>
+        <h2>Conceptualización de Servicios en la Nube
+
+Unidad 3. Desarrollo de aplicaciones web en los servicios de la nube, 3.2. Sitio Web sencillo<hr>
+Ebalia Gudalupe Felix Lamas Código 209698922 E-mail. ebalia.felix@udgvirtual.udg.mx</h2>
       </div>
 
       <div className='footer centrado fuente'>
